@@ -1,8 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Kelvin Beno</h1>
 <h3 align="center">A passionate frontend engineer from Kenya</h3>
-<img class="fit-picture" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300" height="300" align="right"
-   style='text-align:right' alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinbe&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinbe" /> </p>
 
